@@ -1,0 +1,11 @@
+C:\Users\Administrateur\documents\visual studio 2015\Projects\STE\MembreSTE\bin\Debug\MembreSTE.dll
+C:\Users\Administrateur\documents\visual studio 2015\Projects\STE\MembreSTE\bin\Debug\MembreSTE.pdb
+C:\Users\Administrateur\documents\visual studio 2015\Projects\STE\MembreSTE\obj\Debug\MembreSTE.dll
+C:\Users\Administrateur\documents\visual studio 2015\Projects\STE\MembreSTE\obj\Debug\MembreSTE.pdb
+C:\Users\Administrateur\documents\visual studio 2015\Projects\STE\MembreSTE\obj\Debug\MembreSTE.csprojResolveAssemblyReference.cache
+F:\STE\MembreSTE\bin\Debug\MembreSTE.dll
+F:\STE\MembreSTE\bin\Debug\MembreSTE.pdb
+F:\STE\MembreSTE\obj\Debug\MembreSTE.csproj.CoreCompileInputs.cache
+F:\STE\MembreSTE\obj\Debug\MembreSTE.dll
+F:\STE\MembreSTE\obj\Debug\MembreSTE.pdb
+F:\STE\MembreSTE\obj\Debug\MembreSTE.csprojResolveAssemblyReference.cache

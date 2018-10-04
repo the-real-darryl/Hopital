@@ -1,0 +1,27 @@
+c:\users\administrateur\documents\visual studio 2015\Projects\STE\STE\bin\Debug\STE.exe.config
+c:\users\administrateur\documents\visual studio 2015\Projects\STE\STE\bin\Debug\STE.exe
+c:\users\administrateur\documents\visual studio 2015\Projects\STE\STE\bin\Debug\STE.pdb
+c:\users\administrateur\documents\visual studio 2015\Projects\STE\STE\obj\Debug\STE.csprojResolveAssemblyReference.cache
+c:\users\administrateur\documents\visual studio 2015\Projects\STE\STE\obj\Debug\STE.Form1.resources
+c:\users\administrateur\documents\visual studio 2015\Projects\STE\STE\obj\Debug\STE.Properties.Resources.resources
+c:\users\administrateur\documents\visual studio 2015\Projects\STE\STE\obj\Debug\STE.csproj.GenerateResource.Cache
+c:\users\administrateur\documents\visual studio 2015\Projects\STE\STE\obj\Debug\STE.exe
+c:\users\administrateur\documents\visual studio 2015\Projects\STE\STE\obj\Debug\STE.pdb
+C:\Users\Administrateur\documents\visual studio 2015\Projects\STE\STE\obj\Debug\STE.Form2.resources
+C:\Users\Administrateur\documents\visual studio 2015\Projects\STE\STE\bin\Debug\MembreSTE.dll
+C:\Users\Administrateur\documents\visual studio 2015\Projects\STE\STE\bin\Debug\MembreSTE.pdb
+F:\STE\STE\obj\Debug\STE.csprojResolveAssemblyReference.cache
+F:\STE\STE\obj\Debug\STE.Form2.resources
+F:\STE\STE\obj\Debug\STE.Properties.Resources.resources
+F:\STE\STE\obj\Debug\STE.csproj.GenerateResource.cache
+F:\STE\STE\obj\Debug\STE.csproj.CoreCompileInputs.cache
+F:\STE\STE\bin\Debug\STE.exe.config
+F:\STE\STE\bin\Debug\STE.exe
+F:\STE\STE\bin\Debug\STE.pdb
+F:\STE\STE\bin\Debug\MembreSTE.dll
+F:\STE\STE\bin\Debug\MembreSTE.pdb
+F:\STE\STE\obj\Debug\STE.csproj.CopyComplete
+F:\STE\STE\obj\Debug\STE.exe
+F:\STE\STE\obj\Debug\STE.pdb
+F:\STE\STE\obj\Debug\STE.Loggin.resources
+F:\STE\STE\obj\Debug\STE.SelectFiles.resources
